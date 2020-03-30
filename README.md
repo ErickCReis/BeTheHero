@@ -6,16 +6,20 @@
 ### :rocket: Tecnologias usadas
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- Back-end
-  - [Node.js](https://nodejs.org/en/)
-  - [Express](https://expressjs.com/pt-br/)
-- Front-end
-  - [React](https://pt-br.reactjs.org/)
-  - [Axios](https://alligator.io/react/axios-react/)
-- Mobile
-  - [React Native](https://reactnative.dev/)
-  - [Expo](https://expo.io/)
-  
+<div align="center">
+
+| Front-end | Back-end | Mobile |
+|:-:	|:-:	|:-:	|
+| [React](https://pt-br.reactjs.org/) | [Node.js](https://nodejs.org/en/) | [React Native](https://reactnative.dev/) 	|
+| [Axios](https://alligator.io/react/axios-react/) 	| [Express](https://expressjs.com/pt-br/) 	| [Expo](https://expo.io/) 	|
+
+</div>
+
+### :earth_americas: Deploy
+
+O deploy interface Web e da Api foram feitos utilizando a plataforma **[Heroku](https://www.heroku.com/)** e estão disponíveis aqui -> **[Front-end](https://be-th.herokuapp.com/)** e **[Back-end](https://be-th-api.herokuapp.com/)**.
+
+O app mobile também pode ser com o **[Expo Client](https://expo.io/@erickreis/bethehero)**.
 
 ### :muscle: Projeto
 
