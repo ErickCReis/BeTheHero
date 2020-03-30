@@ -37,4 +37,4 @@ A semana foi ministrada pelo <b>Mestre Jedi</b> [Diego Fernandes](https://github
 
 ### :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
