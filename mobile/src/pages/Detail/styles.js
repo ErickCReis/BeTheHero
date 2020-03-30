@@ -1,5 +1,5 @@
-import { StyleSheet } from 'react-native';
-import Constants from 'expo-constants';
+import { StyleSheet } from 'react-native'
+import Constants from 'expo-constants'
 
 export default StyleSheet.create({
   container: {
@@ -11,7 +11,7 @@ export default StyleSheet.create({
   header: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    alignItems: 'center'
+    alignItems: 'center',
   },
 
   incident: {
@@ -26,13 +26,13 @@ export default StyleSheet.create({
     fontSize: 14,
     color: '#41414d',
     fontWeight: 'bold',
-    marginTop: 24,  
+    marginTop: 24,
   },
 
   incidentValue: {
     marginTop: 8,
     fontSize: 15,
-    color: '#737380'
+    color: '#737380',
   },
 
   contactBox: {
@@ -52,13 +52,13 @@ export default StyleSheet.create({
   heroDescription: {
     fontSize: 15,
     color: '#737380',
-    marginTop: 16
+    marginTop: 16,
   },
 
   actions: {
     marginTop: 16,
     flexDirection: 'row',
-    justifyContent: 'space-between'
+    justifyContent: 'space-between',
   },
 
   action: {
@@ -67,13 +67,12 @@ export default StyleSheet.create({
     height: 50,
     width: '48%',
     justifyContent: 'center',
-    alignItems: 'center'
+    alignItems: 'center',
   },
 
   actionText: {
     color: '#FFF',
     fontSize: 15,
-    fontWeight: 'bold'
+    fontWeight: 'bold',
   },
-
 })

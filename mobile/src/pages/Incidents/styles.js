@@ -1,5 +1,5 @@
-import { StyleSheet } from 'react-native';
-import Constants from 'expo-constants';
+import { StyleSheet } from 'react-native'
+import Constants from 'expo-constants'
 
 export default StyleSheet.create({
   container: {
@@ -11,7 +11,7 @@ export default StyleSheet.create({
   header: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    alignItems: 'center'
+    alignItems: 'center',
   },
 
   headerText: {
@@ -20,7 +20,7 @@ export default StyleSheet.create({
   },
 
   headerTextBold: {
-    fontWeight: 'bold'
+    fontWeight: 'bold',
   },
 
   title: {
@@ -28,48 +28,48 @@ export default StyleSheet.create({
     marginBottom: 16,
     marginTop: 48,
     color: '#13131a',
-    fontWeight: 'bold'
+    fontWeight: 'bold',
   },
 
   description: {
     fontSize: 16,
     lineHeight: 24,
-    color: '#737380'
+    color: '#737380',
   },
 
   incidentList: {
-    marginTop: 32
+    marginTop: 32,
   },
 
   incident: {
     padding: 24,
     borderRadius: 8,
     backgroundColor: '#FFF',
-    marginBottom: 16
+    marginBottom: 16,
   },
 
   incidentProperty: {
     fontSize: 14,
     color: '#41414d',
-    fontWeight: 'bold'   
+    fontWeight: 'bold',
   },
 
   incidentValue: {
     marginTop: 8,
     fontSize: 15,
     marginBottom: 24,
-    color: '#737380'
+    color: '#737380',
   },
 
   detailsButton: {
     flexDirection: 'row',
     justifyContent: 'space-between',
-    alignItems: 'center'
+    alignItems: 'center',
   },
 
   detailsButtonText: {
     color: '#e02041',
     fontSize: 15,
-    fontWeight: 'bold'
+    fontWeight: 'bold',
   },
-});
+})
